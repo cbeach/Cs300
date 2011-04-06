@@ -1,0 +1,11 @@
+I'm sorry about the condition of my code, I will clean it up asap.
+but for now, here is a working copy.
+
+included is my program with three test cases, email, email2 and email3.
+to run the progra, make, and then enter ./sender ./<test-case>
+
+as for the style guide, I made a few conscienciuos departures.
+It says that you should indent blocks of code 4 spaces.
+I used hard tabs, this is prettier, easier to read and 
+keeps it's shape more gracefully.  using 4 spaces takes more
+time maintaining code to make sure it lines up.

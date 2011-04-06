@@ -1,0 +1,7 @@
+#include <QWidget>
+
+TicButon::TicButton(){
+	
+
+
+}

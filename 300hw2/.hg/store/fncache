@@ -1,0 +1,12 @@
+data/mailsender.cc.i
+data/mailsender.hh.i
+data/main.cc.i
+data/COPYING.i
+data/Makefile.i
+data/README.i
+data/INSTALL.i
+data/email.i
+data/parser.cc.i
+data/parser.hh.i
+data/email2.i
+data/email3.i

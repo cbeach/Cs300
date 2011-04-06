@@ -1,0 +1,4 @@
+you should just have to run 
+$>make
+$>./sender ./email
+
